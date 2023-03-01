@@ -1,6 +1,6 @@
 :octocat: Hello :octocat: 
 
-Curso para aprender el lenguaje de programación Python desde cero y para principiantes, intermedio y adicional desde sus fundamentos hasta la creación de un API Backend con base de datos.
+Curso para aprender el lenguaje de programación Python desde cero y para principiantes, intermedio hasta la creación de un API Backend con base de datos.
 
 :jack_o_lantern: Topics
 python tutorial 
